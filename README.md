@@ -35,4 +35,4 @@
 [![Website](https://img.shields.io/badge/Website-ingogriebsch.de-informational?style=flat-square&logo=jekyll&logoColor=white)](https://ingogriebsch.de)
 [![Twitter](https://img.shields.io/badge/Twitter-d0gb0t666-informational?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/d0gb0t666/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ingo%20Griebsch-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ingogriebsch/)
-[![Xing](https://img.shields.io/badge/Xing-Ingo%20Griebsch-information?style=flat-square&logo=speakerdeck&logoColor=white)](https://www.xing.com/profile/Ingo_Griebsch)
+[![Xing](https://img.shields.io/badge/Xing-Ingo%20Griebsch-informational?style=flat-square&logo=xing&logoColor=white)](https://www.xing.com/profile/Ingo_Griebsch)
