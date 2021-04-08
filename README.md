@@ -14,9 +14,9 @@ I'm also an ardent [tweeter](https://twitter.com/d0gb0t666) and addicted to [boa
 ## &#x1F6F8; GitHub Stats
 
 <a href="https://github.com/ingogriebsch/ingogriebsch">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=ingogriebsch&show_icons=true&include_all_commits=true&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&" alt="Ingo's Technologies on GitHub" width="400"/></a>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingogriebsch&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&layout=compact&theme=material-palenight" alt="Ingo's GitHub Stats" width="400"/></a>
 <a href="https://github.com/ingogriebsch/ingogriebsch">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingogriebsch&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact&hide=shell,css&theme=material-palenight" alt="Ingo's GitHub Stats" width="400"/></a>
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=ingogriebsch&show_icons=true&include_all_commits=true&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&" alt="Ingo's Technologies on GitHub" width="400"/></a>
 
 ---
 Powered by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats), [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) and the [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).
